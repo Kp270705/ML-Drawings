@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T11:44:58.218Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.4.0" etag="dPRuRSPw6wOxuFkidkhF" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T13:45:16.159Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="bhIaS0gFQn9nmHFe8gH8" version="24.4.6" type="github">
   <diagram name="Page-1" id="J3XRgVF7dArTo6fAFhcU">
-    <mxGraphModel>
+    <mxGraphModel dx="2196" dy="1376" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3aFhY2nkO1i7FZ02QF5J-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Data set collection&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="234" y="98" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3aFhY2nkO1i7FZ02QF5J-2" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="393.5" y="256" as="sourcePoint" />
+            <mxPoint x="393.5" y="336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3aFhY2nkO1i7FZ02QF5J-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Image Preprocessing&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="234" y="336" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3aFhY2nkO1i7FZ02QF5J-4" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="393.5" y="494" as="sourcePoint" />
+            <mxPoint x="393.5" y="574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3aFhY2nkO1i7FZ02QF5J-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Text Preprocessing&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="234" y="574" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3aFhY2nkO1i7FZ02QF5J-6" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="393.5" y="734" as="sourcePoint" />
+            <mxPoint x="393.5" y="814" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3aFhY2nkO1i7FZ02QF5J-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Define the model and fitting&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="234" y="812" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3aFhY2nkO1i7FZ02QF5J-8" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=5;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="393.5" y="972" as="sourcePoint" />
+            <mxPoint x="393.5" y="1052" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3aFhY2nkO1i7FZ02QF5J-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Testing and result analysis&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="234" y="1050" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3aFhY2nkO1i7FZ02QF5J-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Schema of Image caption generator:- &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13" y="13" width="440" height="66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
